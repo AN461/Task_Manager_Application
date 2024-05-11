@@ -29,4 +29,4 @@ The Task Manager Application is a Python-based graphical user interface (GUI) ap
 
 
 
-### any suggestions to this project please email to gollaanjimath123@gmail.com
+any suggestions to this project please email to gollaanjimath123@gmail.com
